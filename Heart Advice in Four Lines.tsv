@@ -1,0 +1,59 @@
+form	lemma	POS	morph
+༄༅།		PUNCT
+		
+།		PUNCT
+ཞལ་གདམས་	ཞལ་གདམས་	NOUN
+མདོར་བསྡུས་	མདོར་བསྡུས་	OTHER
+ནི་	ནི་	NO_POS
+།		PUNCT
+བླ་མ་	བླ་མ་	NOUN
+མ་	མ་	PART
+བརྗེད་	བརྗེད་	VERB
+རྟག་	རྟག་	VERB
+ཏུ་	ལ་	PART
+གསོལ་བ་	གསོལ་བ་	VERB
+ཐོབ་	ཐོབ་	VERB
+།		PUNCT
+		
+།		PUNCT
+རང་སེམས་	རང་སེམས་	NOUN
+མ་	མ་	PART
+ཡེངས་	ཡེངས་	NO_POS
+རང་	རང་	PRON
+ངོ་	གོ་	PART
+རང་	རང་	PRON
+གིས་	གིས་	PART
+ལྟོ་	ལྟོ་	VERB
+།		PUNCT
+		
+།		PUNCT
+འཆི་བ་	འཆི་བ་	VERB
+མ་	མ་	PART
+བརྗེད་	བརྗེད་	VERB
+ཆོ་	ཆོ་	NOUN
+ལ་	ལ་	PART
+བསྐུལ་མ་	བསྐུལ་མ་	NOUN
+ཐོབ་	ཐོབ་	VERB
+།		PUNCT
+		
+།		PUNCT
+སེམས་ཅན་	སེམས་ཅན་	NOUN
+མ་	མ་	PART
+བརྗེད་	བརྗེད་	VERB
+སྙིང་རྗེ་	སྙིང་རྗེ་	NOUN
+བསྔོ་སྨོན་	བསྔོ་སྨོན་	NO_POS
+གྱིས་	གིས་	PART
+།		PUNCT
+		
+།		PUNCT
+ཅེས་	ཅེས་	PART
+དད་	དད་	VERB
+ལྡན་	ལྡན་	VERB
+ཀུན་བཟང་	ཀུན་བཟང་	ADJ
+ངོ་	ངོ་	PART
+ར་	ལ་	PART
+མངྒ་		NON_WORD
+ལ་	ལ་	ADP
+ས་	གིས་	PART
+སོ་	གོ་	PART
+།།		PUNCT
